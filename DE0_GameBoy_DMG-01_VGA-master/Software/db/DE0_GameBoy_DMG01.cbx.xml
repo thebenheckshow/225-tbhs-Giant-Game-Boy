@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="DE0_GameBoy_DMG01">
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_GameBoy_DMG01|DE0_VGA:VGA_Driver|PLL_PIXEL_CLK:pll_inst0|altpll:altpll_component" CBX_FILE_NAME="PLL_PIXEL_CLK_altpll2.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_GameBoy_DMG01|DISP_RAM:RAM_Driver|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_vhq1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE0_GameBoy_DMG01|ScreenShot_RAM:ScreenShot_RAM_Driver|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_vhq1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

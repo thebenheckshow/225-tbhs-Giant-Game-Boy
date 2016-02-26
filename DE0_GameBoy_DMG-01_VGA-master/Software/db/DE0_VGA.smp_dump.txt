@@ -1,0 +1,10 @@
+
+State Machine - |DE0_VGA|V_visible
+Name V_visible.1 
+V_visible.0 0 
+V_visible.1 1 
+
+State Machine - |DE0_VGA|H_visible
+Name H_visible.1 
+H_visible.0 0 
+H_visible.1 1 

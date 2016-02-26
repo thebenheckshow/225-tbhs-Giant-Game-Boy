@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Jan 20 16:37:45 2016
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Web Edition
+Revision Name : DE0_GameBoy_DMG01
+Top-level Entity Name : DE0_GameBoy_DMG01
+Family : Cyclone IV E
+Total logic elements : 5,083
+    Total combinational functions : 4,971
+    Dedicated logic registers : 2,376
+Total registers : 2376
+Total pins : 38
+Total virtual pins : 0
+Total memory bits : 65,536
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

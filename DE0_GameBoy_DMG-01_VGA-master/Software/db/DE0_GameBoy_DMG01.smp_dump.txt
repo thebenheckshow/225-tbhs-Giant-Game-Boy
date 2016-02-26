@@ -1,0 +1,15 @@
+
+State Machine - |DE0_GameBoy_DMG01|H_blank
+Name H_blank.1 
+H_blank.0 0 
+H_blank.1 1 
+
+State Machine - |DE0_GameBoy_DMG01|V_blank
+Name V_blank.1 
+V_blank.0 0 
+V_blank.1 1 
+
+State Machine - |DE0_GameBoy_DMG01|safe
+Name safe.1 
+safe.0 0 
+safe.1 1 

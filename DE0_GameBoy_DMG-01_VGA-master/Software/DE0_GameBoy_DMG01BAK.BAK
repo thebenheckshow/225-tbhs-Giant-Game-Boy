@@ -1,0 +1,90 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=8;
+DEPTH=8192;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	0     :   10110111;
+	1     :   11000010;
+	2     :   11000011;
+	3     :   10011100;
+	4     :   10000100;
+	5     :   10011100;
+	[6..39]  :   10000100;
+	[40..41]  :   00000000;
+	[42..79]  :   11010010;
+	[80..81]  :   11111111;
+	[82..1599]  :   00000000;
+	[1600..1601]  :   11111111;
+	[1602..2643]  :   00000000;
+	2644  :   11000000;
+	[2645..2859]  :   00000000;
+	2860  :   11111111;
+	[2861..2867]  :   00000000;
+	2868  :   11110101;
+	[2869..2878]  :   00000000;
+	2879  :   01010101;
+	[2880..2881]  :   11111111;
+	[2882..2918]  :   00000000;
+	2919  :   11011100;
+	[2920..3585]  :   10101010;
+	3586  :   10111010;
+	[3587..3625]  :   10101010;
+	3626  :   10011010;
+	[3627..4748]  :   10101010;
+	4749  :   11111111;
+	[4750..4762]  :   10101010;
+	4763  :   11111111;
+	[4764..4783]  :   10101010;
+	4784  :   00000000;
+	4785  :   10101010;
+	4786  :   00000000;
+	[4787..4788]  :   10101010;
+	4789  :   00000000;
+	[4790..4795]  :   10101010;
+	4796  :   11111111;
+	[4797..4827]  :   10101010;
+	4828  :   00000000;
+	[4829..4834]  :   10101010;
+	4835  :   11111111;
+	[4836..4840]  :   10101010;
+	[4841..4842]  :   11111111;
+	4843  :   10101010;
+	4844  :   01010101;
+	4845  :   00000000;
+	[4846..4873]  :   10101010;
+	4874  :   00000000;
+	[4875..4879]  :   10101010;
+	4880  :   00000000;
+	[4881..5466]  :   10101010;
+	5467  :   11101010;
+	[5468..5719]  :   10101010;
+	5720  :   11001100;
+	5721  :   01101100;
+	5722  :   11011110;
+	[5723..5727]  :   10101010;
+	5728  :   00110011;
+	[5729..5754]  :   10101010;
+	5755  :   01110111;
+	[5756..5757]  :   10101010;
+	5758  :   11000011;
+	5759  :   11011011;
+	[5760..8191]  :   00000000;
+END;

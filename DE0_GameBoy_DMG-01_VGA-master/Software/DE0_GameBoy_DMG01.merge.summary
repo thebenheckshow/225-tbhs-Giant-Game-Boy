@@ -1,0 +1,14 @@
+Partition Merge Status : Successful - Sun Aug 16 22:16:58 2015
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Web Edition
+Revision Name : DE0_GameBoy_DMG01
+Top-level Entity Name : DE0_GameBoy_DMG01
+Family : Cyclone III
+Total logic elements : 5,127
+    Total combinational functions : 3,713
+    Dedicated logic registers : 3,213
+Total registers : 3213
+Total pins : 38
+Total virtual pins : 0
+Total memory bits : 290,816
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
